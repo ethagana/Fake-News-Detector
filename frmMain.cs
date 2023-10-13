@@ -106,10 +106,10 @@ namespace Fake_News_Detector
                 string url = "https://api.twitter.com/1.1/search/tweets.json";
 
                 // oauth application keys
-                var oauth_token = "2228281075-ACm6Vt5CHN2FRFrfP15FmDi3CxNI6rjeDvVt9Ju"; //"insert here...";
-                var oauth_token_secret = "DsfpggOCoPPPtFGKVQ3EaZgOWM2LL9tSBhfDOfT1tU4Ny"; //"insert here...";
-                var oauth_consumer_key = "LnUIYhkz5RRG5dYwtQ6g3Q";// = "insert here...";
-                var oauth_consumer_secret = "13pjrYRG1LtZ1vgNfCISi9fHhSR53sHuPpqCfPE";// = "insert here...";
+                var oauth_token = ""; //"insert here...";
+                var oauth_token_secret = ""; //"insert here...";
+                var oauth_consumer_key = "";// = "insert here...";
+                var oauth_consumer_secret = "";// = "insert here...";
 
                 // oauth implementation details
                 var oauth_version = "1.0";
